@@ -2,7 +2,7 @@
   <h1 align="center">Hi <img src="https://github.com/JFortun/JFortun/blob/main/resources/waving.gif" alt="Waving"
                              width="35">, I'm José Fortún</h1>
   <h4 align="center">A software developer, see my <a
-          href="https://github.com/JFortun/JFortun/blob/main/resources/resume_jose_fortun.pdf"
+          href="https://raw.githubusercontent.com/JFortun/JFortun/main/resources/resume_jose_fortun.pdf"
           target="_blank">resume</a> for more info.</h4>
 </div>
 
