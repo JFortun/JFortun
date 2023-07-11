@@ -85,13 +85,3 @@
     </details>
   </div>
 </details>
-
-<details>
-  <summary>📈 Latest activity graph</summary>
-  <br/>
-  <h2 align="center"> Latest contribution </h2>
-  <a href="https://github.com/JFortun/">
-    <img alt="JFortun activity graph"
-         src="https://activity-graph.herokuapp.com/graph/?username=jfortun&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true"/></a>
-  <br/>
-</details>
