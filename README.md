@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi <img src="https://github.com/JFortun/JFortun/blob/main/resources/waving.gif" alt="Waving"
                              width="35">, I'm José Fortún</h1>
-  <h4 align="center">A software developer, see my <a
+  <h4 align="center">A software engineer, see my <a
           href="https://raw.githubusercontent.com/JFortun/JFortun/main/resources/resume_jose_fortun.pdf"
           target="_blank">resume</a> for more info.</h4>
 </div>
@@ -17,7 +17,7 @@
     <h2 align="center">You can reach me by</h2>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/josemanuelfortun/" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/jmfortun/" target="blank"><img align="center"
                                                                                   src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
                                                                                   alt="LinkedIn" height="30"/></a>
       <a href="mailto:josemanuelfortunromero@gmail.com" target="blank"><img align="center"
