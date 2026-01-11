@@ -49,39 +49,3 @@
     </p>
   </div>
 </details>
-
-<details>
-  <summary>💻 GitHub profile stats</summary>
-  <div>
-    <h2 align="center">GitHub stats</h2>
-    <br/>
-    <details open>
-      <summary><h3>Languages</h3></summary>
-      <p align="center">
-        <a href="https://github.com/JFortun/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFortun&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-               alt="Stats: overall top langs "/></a>
-      </p>
-      <p align="center">
-        <a href="https://github.com/JFortun/">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JFortun&theme=gruvbox&layout=compact&hide_border=true"
-               alt="Stats: top langs by repository" width="45%"/>
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JFortun&theme=gruvbox&layout=compact&hide_border=true"
-               alt="Stats: top langs by commit" width="45%"/>
-        </a>
-      </p>
-    </details>
-    <details open>
-      <summary><h3>Statistics</h3></summary>
-      <p align="center">
-        <a href="https://github.com/JFortun/">
-          <img src="https://github-readme-stats.vercel.app/api?username=JFortun&show_icons=true&theme=gruvbox&hide_border=true"
-               alt="s" width="49.5%"/>
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=JFortun&theme=gruvbox&hide_border=true"
-               alt="s" width="49.5%"/>
-        </a>
-      </p>
-      <br>
-    </details>
-  </div>
-</details>
